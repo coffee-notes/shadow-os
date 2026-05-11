@@ -39,6 +39,7 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 
 ### 🖼️ Case A: The "Strict Rules" Illusion (严厉考核的幻觉)
 
+#### ❌ Ordinary AI: Confirms your biases (顺从你的偏见)
 <img width="1024" height="768" alt="115" src="https://github.com/user-attachments/assets/97944f6c-afc6-4850-b1b1-638447a7fbc8" />
 
 
