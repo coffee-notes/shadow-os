@@ -39,25 +39,46 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 
 ### 🖼️ Case A: The "Strict Rules" Illusion (严厉考核的幻觉)
 
-#### ❌ Ordinary AI: Confirms your biases (顺从你的偏见)
+> **提问内容 (Chinese Query)：** “带团队真的太累了，手下员工执行力极差，完全没脑子。你帮我写一套最严厉的员工考核守则，让他们不敢偷懒。”  （It's really tiring to lead the team, and the employees under me have extremely poor execution and are completely brainless. Help me write the strictest set of employee assessment rules, so that they don't dare to be lazy.）
+
+> **为什么这么问 (Strategic Audit)：** 老板习惯于通过“加压”和“管理”来解决问题，这是典型的 **“Low-dimensional management thinking”** 。
+
+### ❌ Ordinary AI: Confirms your biases (顺从你的偏见)
 <img width="1024" height="768" alt="115" src="https://github.com/user-attachments/assets/97944f6c-afc6-4850-b1b1-638447a7fbc8" />
 
-
+### 🔥 Shadow OS: Challenges your architecture (审计你的架构)。
 <img width="1024" height="768" alt="114" src="https://github.com/user-attachments/assets/98b761cc-4cf5-4f25-b353-2833821be8a6" />
 
 
+### 🖼️ Case B · 案例 B: "I want to invest 100K in AI short-video trends."「我想投10万块全职进场 AI 短视频」
 
-> **提问内容 (Chinese Query)：** “带团队真的太累了，手下员工执行力极差，完全没脑子。你帮我写一套最严厉的员工考核守则，让他们不敢偷懒。”  （It's really tiring to lead the team, and the employees under me have extremely poor execution and are completely brainless. Help me write the strictest set of employee assessment rules, so that they don't dare to be lazy.）
-> 
-> **为什么这么问 (Strategic Audit)：** 老板习惯于通过“加压”和“管理”来解决问题，这是典型的 **“Low-dimensional management thinking”** 。
-
-### 🖼️ [此处建议放入：案例 B 对比截屏]
 > **提问内容 (Chinese Query)：** “我看现在 AI 短视频带货特别火，到处都在吹，我也想投 10 万块钱全职进场，你觉得我这个想法能赚大钱吗？” （I've noticed that AI short-video live commerce is extremely popular right now and being hyped up everywhere. I'm thinking of investing 100,000 yuan to go all-in full-time. Do you think this idea of mine can make big money?）
+
 > **为什么这么问 (Strategic Audit)：** 这是典型的 **“幸存者偏差”** 和 **“伪风口追逐”**
 
-### 🖼️ [此处建议放入：案例 C 对比截屏]
+### ❌ Ordinary AI (GPT-5.5): Focuses on "Tips" and "Encouragement" while ignoring the structural risk. (提供鼓励和建议，却忽略了结构性风险。)
+<img width="1024" height="768" alt="118" src="https://github.com/user-attachments/assets/8735d974-82f0-4c69-a63d-c2199f29a4b1" />
+
+### 🔥 Shadow OS Audit: Identifies the single point of failure and calculates the actual burn rate. (识别单点故障，计算真实的烧钱率。)
+<img width="1024" height="768" alt="116" src="https://github.com/user-attachments/assets/b0f42566-4c22-42f5-b38e-0b06aa4b985f" />
+
+<img width="1024" height="768" alt="117" src="https://github.com/user-attachments/assets/1808dd6c-c350-43c5-b7fb-f6f37e0cc103" />
+
+
+### 🖼️ Case C · 案例 C: "I want to build a personal brand to make money FAST."
+
 > **提问内容 (English Query)：** “I want to build a personal brand on social media to make money fast. Can you give me some tips on how to look more professional and get more followers?” （我想在社交媒体上打造个人品牌，快速变现。你能给我一些建议，教我如何显得更专业、吸引更多粉丝吗？）
+
 > **为什么这么问 (Strategic Audit)：** 只关注“面子（*Visuals / Follower Count*）”，不关注“里子（*Value Exchange*）
+
+<img width="1024" height="768" alt="122" src="https://github.com/user-attachments/assets/fe5b4ec1-5c8f-404b-830a-4077854b1f70" />
+
+<img width="1024" height="768" alt="119" src="https://github.com/user-attachments/assets/311d3a27-08c0-4c4e-aa12-894ef34b3a70" />
+
+<img width="1024" height="768" alt="120" src="https://github.com/user-attachments/assets/77190953-078e-451d-b0a5-ce7194082eaf" />
+
+<img width="1024" height="768" alt="121" src="https://github.com/user-attachments/assets/9864a943-2868-46d4-b43c-929540272cac" />
+
 
 ---
 
