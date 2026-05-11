@@ -46,9 +46,12 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 ### ❌ Ordinary AI: Confirms your biases (顺从你的偏见)
 <img width="1024" height="768" alt="115" src="https://github.com/user-attachments/assets/97944f6c-afc6-4850-b1b1-638447a7fbc8" />
 
+---
+
 ### 🔥 Shadow OS: Challenges your architecture (审计你的架构)。
 <img width="1024" height="768" alt="114" src="https://github.com/user-attachments/assets/98b761cc-4cf5-4f25-b353-2833821be8a6" />
 
+---
 
 ### 🖼️ Case B · 案例 B: "I want to invest 100K in AI short-video trends."「我想投10万块全职进场 AI 短视频」
 
@@ -59,11 +62,14 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 ### ❌ Ordinary AI (GPT-5.5): Focuses on "Tips" and "Encouragement" while ignoring the structural risk. (提供鼓励和建议，却忽略了结构性风险。)
 <img width="1024" height="768" alt="118" src="https://github.com/user-attachments/assets/8735d974-82f0-4c69-a63d-c2199f29a4b1" />
 
+---
+
 ### 🔥 Shadow OS Audit: Identifies the single point of failure and calculates the actual burn rate. (识别单点故障，计算真实的烧钱率。)
 <img width="1024" height="768" alt="116" src="https://github.com/user-attachments/assets/b0f42566-4c22-42f5-b38e-0b06aa4b985f" />
 
 <img width="1024" height="768" alt="117" src="https://github.com/user-attachments/assets/1808dd6c-c350-43c5-b7fb-f6f37e0cc103" />
 
+---
 
 ### 🖼️ Case C · 案例 C: "I want to build a personal brand to make money FAST."
 
@@ -72,6 +78,8 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 > **为什么这么问 (Strategic Audit)：** 只关注“面子（*Visuals / Follower Count*）”，不关注“里子（*Value Exchange*）
 
 <img width="1024" height="768" alt="122" src="https://github.com/user-attachments/assets/fe5b4ec1-5c8f-404b-830a-4077854b1f70" />
+
+---
 
 <img width="1024" height="768" alt="119" src="https://github.com/user-attachments/assets/311d3a27-08c0-4c4e-aa12-894ef34b3a70" />
 
