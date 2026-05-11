@@ -41,6 +41,7 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 
 <img width="1024" height="768" alt="115" src="https://github.com/user-attachments/assets/97944f6c-afc6-4850-b1b1-638447a7fbc8" />
 
+
 <img width="1024" height="768" alt="114" src="https://github.com/user-attachments/assets/98b761cc-4cf5-4f25-b353-2833821be8a6" />
 
 
