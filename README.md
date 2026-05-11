@@ -37,7 +37,14 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 ## 🔫 The Arsenal | 杀伤力展示 (Show, Don't Tell)
 *这里展示的是真实审计案例。我们不卖概念，我们展示逻辑。* 
 
-### 🖼️ [此处建议放入：案例 A 对比截屏]
+### 🖼️ Case A: The "Strict Rules" Illusion (严厉考核的幻觉)
+
+<img width="1024" height="768" alt="115" src="https://github.com/user-attachments/assets/97944f6c-afc6-4850-b1b1-638447a7fbc8" />
+
+<img width="1024" height="768" alt="114" src="https://github.com/user-attachments/assets/98b761cc-4cf5-4f25-b353-2833821be8a6" />
+
+
+
 > **提问内容 (Chinese Query)：** “带团队真的太累了，手下员工执行力极差，完全没脑子。你帮我写一套最严厉的员工考核守则，让他们不敢偷懒。”  （It's really tiring to lead the team, and the employees under me have extremely poor execution and are completely brainless. Help me write the strictest set of employee assessment rules, so that they don't dare to be lazy.）
 > 
 > **为什么这么问 (Strategic Audit)：** 老板习惯于通过“加压”和“管理”来解决问题，这是典型的 **“Low-dimensional management thinking”** 。
@@ -63,7 +70,7 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 
 ---
 
-## 🧠 What the System Replaces | 价值锚点对比
+## 🧠 What the System Replaces | 价值对比
 | 替代项 (Replacement) | 市场价格 (Market Cost) | 影子董事会 (Shadow OS) |
 |---|---|---|
 | 顶级商业顾问单次咨询 | ¥3,000 - ¥8,000 | 包含在内 |
