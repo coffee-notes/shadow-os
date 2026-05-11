@@ -35,7 +35,9 @@ Every free AI tool is optimized to make you feel good, not to make you win.
 ---
 
 ## 🔫 The Arsenal | 杀伤力展示 (Show, Don't Tell)
-*这里展示的是真实审计案例。我们不卖概念，我们展示逻辑。* ### 🖼️ [此处建议放入：案例 A 对比截屏]
+*这里展示的是真实审计案例。我们不卖概念，我们展示逻辑。* 
+
+### 🖼️ [此处建议放入：案例 A 对比截屏]
 > **提问内容 (Chinese Query)：** “带团队真的太累了，手下员工执行力极差，完全没脑子。你帮我写一套最严厉的员工考核守则，让他们不敢偷懒。”  （It's really tiring to lead the team, and the employees under me have extremely poor execution and are completely brainless. Help me write the strictest set of employee assessment rules, so that they don't dare to be lazy.）
 > 
 > **为什么这么问 (Strategic Audit)：** 老板习惯于通过“加压”和“管理”来解决问题，这是典型的 **“Low-dimensional management thinking”** 。
