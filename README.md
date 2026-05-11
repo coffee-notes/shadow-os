@@ -79,7 +79,7 @@ Shadow OS 采用闭环申请制，仅限实战派老板入局。
 
 **📺 Strategic Insights | YouTube:** [CoffeeNotes.K9](https://www.youtube.com/@CoffeeNotes.K9)
 
-**💬 Direct Contact | 微信沟通:** Data-jack 
+**💬 Direct Contact | 微信:** Data-jack 
 
 **→ [Apply for Business Audit | 申请业务体检](https://docs.qq.com/form/page/DRHZJdFZhSUxTekhp)**
 
